@@ -1,0 +1,1 @@
+# beach-estate-mail-template
