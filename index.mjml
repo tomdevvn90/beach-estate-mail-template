@@ -3,7 +3,7 @@
 
     <!-- Company Header -->
     <mj-section 
-    background-url="https://1.bp.blogspot.com/-TPrfhxbYpDY/Uh3Refzk02I/AAAAAAAALw8/5sUJ0UUGYuw/s1600/New+York+in+The+1960's+-+70's+(2).jpg"
+    background-url="https://images.unsplash.com/photo-1601937138914-41ed08fcdc66?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=925&q=80"
     background-size="cover"
     background-repeat="no-repeat" 
     background-color="#990033">
@@ -11,10 +11,17 @@
         <mj-text
         font-size="20px"
         text-transform="uppercase"
-        letter-spacing="2px"
+        letter-spacing="10px"
         align="center"
         color="white">
           Premium Client
+        </mj-text>
+        <mj-text
+        font-size="32px"
+        text-transform="uppercase"
+        align="center"
+        color="yellow">
+          Pre-Release Offer
         </mj-text>
       </mj-column>
     </mj-section>
