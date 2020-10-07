@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Red Rose';
+    src: url('RedRose-Bold.woff2') format('woff2'),
+        url('RedRose-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Red Rose';
+    src: url('RedRose-Light.woff2') format('woff2'),
+        url('RedRose-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Red Rose';
+    src: url('RedRose-Regular.woff2') format('woff2'),
+        url('RedRose-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
