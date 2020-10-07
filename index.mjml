@@ -1,8 +1,8 @@
 <mjml>
   <mj-head>
     <mj-font name="Raleway" href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400&family=Raleway:wght@400;700&display=swap" />
-    <!-- <mj-font name="Red Rose" href="http://job.beplusprojects.com/beach-estate-mail-assets/_fonts/red-rose/stylesheet.css" />
-    <mj-font name="Epilogue" href="http://job.beplusprojects.com/beach-estate-mail-assets/_fonts/epilogue/stylesheet.css" /> -->
+    <!-- <mj-font name="Red Rose" href="./fonts/red-rose/stylesheet.css" />
+    <mj-font name="Epilogue" href="./fonts/epilogue/stylesheet.css" /> -->
   </mj-head>
   <mj-body>
     <!-- Brand --> 
@@ -15,7 +15,7 @@
         <mj-image 
         width="78px" 
         padding="0 0 20px 0"
-        src="http://job.beplusprojects.com/beach-estate-mail-assets/_assets/leaf.svg" />
+        src="./assets/leaf.svg" />
         <mj-text
         font-family="Raleway"
         font-weight="700"
@@ -39,7 +39,7 @@
     </mj-section>
     <!-- Offer -->
     <mj-section 
-    background-url="http://job.beplusprojects.com/beach-estate-mail-assets/_assets/bg-ss-2.png"
+    background-url="./assets/bg-ss-2.png"
     background-color="#f0f0f0">
       <mj-column
       padding="10px 0">
@@ -67,7 +67,7 @@
     <!-- Image -->
     <mj-section
     padding="70% 0 0 0"
-    background-url="http://job.beplusprojects.com/beach-estate-mail-assets/_assets/image-beach@2x.jpg"
+    background-url="./assets/image-beach@2x.jpg"
     background-size="cover">
     </mj-section>
     <!-- Introduction Text -->
@@ -96,7 +96,7 @@
     <!-- Image -->
     <mj-section
     padding="100% 0 0 0"
-    background-url="http://job.beplusprojects.com/beach-estate-mail-assets/_assets/image-lots@2x.jpg"
+    background-url="./assets/image-lots@2x.jpg"
     background-size="cover">
     </mj-section>
     <!-- Text -->
@@ -140,7 +140,7 @@
     <!-- Image -->
     <mj-section
     padding="60% 0 0 0"
-    background-url="http://job.beplusprojects.com/beach-estate-mail-assets/_assets/image-location@2x.jpg"
+    background-url="./assets/image-location@2x.jpg"
     background-size="cover">
     </mj-section>
 
@@ -165,7 +165,7 @@
         <mj-image 
         height="60px"
         width="78px"
-        src="http://job.beplusprojects.com/beach-estate-mail-assets/_assets/Icons/64px-Golf@2x.png" />
+        src="./assets/Icons/64px-Golf@2x.png" />
         <mj-text
         font-size="24px"
         font-weight="bold"
@@ -188,7 +188,7 @@
         <mj-image 
         height="60px"
         width="60px"
-        src="http://job.beplusprojects.com/beach-estate-mail-assets/_assets/Icons/64px-Sunset@2x.png" />
+        src="./assets/Icons/64px-Sunset@2x.png" />
         <mj-text
         font-size="24px"
         font-weight="bold"
@@ -211,7 +211,7 @@
         <mj-image 
         height="60px"
         width="60px"
-        src="http://job.beplusprojects.com/beach-estate-mail-assets/_assets/Icons/64px-Plate@2x.png" />
+        src="./assets/Icons/64px-Plate@2x.png" />
         <mj-text
         font-size="24px"
         font-weight="bold"
@@ -234,7 +234,7 @@
         <mj-image 
         height="60px"
         width="60px"
-        src="http://job.beplusprojects.com/beach-estate-mail-assets/_assets/Icons/64px-Townhall@2x.png" />
+        src="./assets/Icons/64px-Townhall@2x.png" />
         <mj-text
         font-size="24px"
         font-weight="bold"
@@ -257,7 +257,7 @@
         <mj-image  
         height="60px"
         width="85px"
-        src="http://job.beplusprojects.com/beach-estate-mail-assets/_assets/Icons/64px-Boat@2x.png" />
+        src="./assets/Icons/64px-Boat@2x.png" />
         <mj-text
         font-size="24px"
         font-weight="bold"
@@ -280,7 +280,7 @@
         <mj-image 
         height="60px"
         width="60px"
-        src="http://job.beplusprojects.com/beach-estate-mail-assets/_assets/Icons/64px-Shopping@2x.png" />
+        src="./assets/Icons/64px-Shopping@2x.png" />
         <mj-text
         font-size="24px"
         font-weight="bold"
@@ -338,7 +338,7 @@
         color="white">
           Exclusive agent
         </mj-text>
-        <mj-image width="347px" src="http://job.beplusprojects.com/beach-estate-mail-assets/_assets/Branding/McGrath-Logo@2x.png" />
+        <mj-image width="347px" src="./assets/Branding/McGrath-Logo@2x.png" />
         <mj-spacer height="20px" />
         <mj-text
         font-size="16px"
@@ -358,7 +358,7 @@
     padding="30px 0"
     background-color="black">
       <mj-column>
-        <mj-image width="134px" src="http://job.beplusprojects.com/beach-estate-mail-assets/_assets/Branding/Seymour-LOGO-reverse@2x.png" />
+        <mj-image width="134px" src="./assets/Branding/Seymour-LOGO-reverse@2x.png" />
         <mj-text
         align="center"
         color="white">
@@ -366,5 +366,5 @@
         </mj-text>
       </mj-column>
     </mj-section>
-  </mj-body>
+  </mj-body> 
 </mjml> 
