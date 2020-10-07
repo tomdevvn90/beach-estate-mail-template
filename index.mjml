@@ -347,8 +347,8 @@
         line-height="24px">
           <strong>Tony McGrath</strong><br />
           Phone: <a style="color: white;" href="tel:+61438772277">+61 438 77 22 77</a><br />
-          Email: <a style="color: #DFA836;" href="mailto: thebeachestate@tonymcgrath.com.au">thebeachestate@tonymcgrath.com.au</a> <br />
-          Web: <a style="color: #DFA836;" href="www.thebeachestate.com.au" target="_blank">www.thebeachestate.com.au</a><br />
+          Email: <a style="color: #DFA836;" href="mailto:thebeachestate@tonymcgrath.com.au">thebeachestate@tonymcgrath.com.au</a> <br />
+          Web: <a style="color: #DFA836;" href="https://www.thebeachestate.com.au" target="_blank">www.thebeachestate.com.au</a><br />
         </mj-text>
       </mj-column>
     </mj-section>
