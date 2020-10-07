@@ -1,8 +1,8 @@
 <mjml>
   <mj-head>
     <mj-font name="Raleway" href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400&family=Raleway:wght@400;700&display=swap" />
-    <mj-font name="Red Rose" href="http://job.beplusprojects.com/beach-estate-mail-assets/_fonts/red-rose/stylesheet.css" />
-    <mj-font name="Epilogue" href="http://job.beplusprojects.com/beach-estate-mail-assets/_fonts/epilogue/stylesheet.css" />
+    <!-- <mj-font name="Red Rose" href="http://job.beplusprojects.com/beach-estate-mail-assets/_fonts/red-rose/stylesheet.css" />
+    <mj-font name="Epilogue" href="http://job.beplusprojects.com/beach-estate-mail-assets/_fonts/epilogue/stylesheet.css" /> -->
   </mj-head>
   <mj-body>
     <!-- Brand --> 
@@ -344,7 +344,7 @@
         font-size="16px"
         align="center"
         color="white"
-        line-height="28px">
+        line-height="24px">
           <strong>Tony McGrath</strong><br />
           Phone: <a style="color: white;" href="tel:+61438772277">+61 438 77 22 77</a><br />
           Email: <a style="color: #DFA836;" href="mailto: thebeachestate@tonymcgrath.com.au">thebeachestate@tonymcgrath.com.au</a> <br />
@@ -353,5 +353,18 @@
       </mj-column>
     </mj-section>
 
+    <!-- Footer -->
+    <mj-section 
+    padding="30px 0"
+    background-color="black">
+      <mj-column>
+        <mj-image width="134px" src="./_assets/Branding/Seymour-LOGO-reverse@2x.png" />
+        <mj-text
+        align="center"
+        color="white">
+          Developed by Seymour Group. © 2020 Seymour Group. All Rights Reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml> 
