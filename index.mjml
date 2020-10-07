@@ -1,38 +1,357 @@
 <mjml>
+  <mj-head>
+    <mj-font name="Raleway" href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400&family=Raleway:wght@400;700&display=swap" />
+    <mj-font name="Red Rose" href="http://job.beplusprojects.com/beach-estate-mail-assets/_fonts/red-rose/stylesheet.css" />
+    <mj-font name="Epilogue" href="http://job.beplusprojects.com/beach-estate-mail-assets/_fonts/epilogue/stylesheet.css" />
+  </mj-head>
   <mj-body>
-
-    <!-- Company Header -->
+    <!-- Brand --> 
     <mj-section 
-    background-url="https://1.bp.blogspot.com/-TPrfhxbYpDY/Uh3Refzk02I/AAAAAAAALw8/5sUJ0UUGYuw/s1600/New+York+in+The+1960's+-+70's+(2).jpg"
     background-size="cover"
     background-repeat="no-repeat" 
-    background-color="#990033">
-      <mj-column>
+    background-color="#2D4A45">
+      <mj-column
+      padding="20px 0 20px">
+        <mj-image 
+        width="78px" 
+        padding="0 0 20px 0"
+        src="./_assets/leaf.svg" />
+        <mj-text
+        font-family="Raleway"
+        font-weight="700"
+        font-size="42px"
+        text-transform="uppercase"
+        align="center"
+        line-height="16px"
+        color="white">
+          The Beach Estate
+        </mj-text>
         <mj-text
         font-size="20px"
         text-transform="uppercase"
-        letter-spacing="2px"
+        letter-spacing="10px"
         align="center"
+        line-height="16px"
+        color="#E4A845">
+          Port Douglas
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Offer -->
+    <mj-section 
+    background-url="./_assets/bg-ss-2.png"
+    background-color="#f0f0f0">
+      <mj-column
+      padding="10px 0">
+        <mj-text
+        font-size="20px"
+        text-transform="uppercase"
+        letter-spacing="10px"
+        align="center"
+        line-height="16px"
         color="white">
           Premium Client
+        </mj-text>
+        <mj-text
+        font-family="Raleway"
+        font-weight="bold"
+        font-size="30px"
+        text-transform="uppercase"
+        align="center"
+        line-height="16px"
+        color="#E4A845">
+          PRE-RELEASE OFFER
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Image -->
+    <mj-section
+    padding="70% 0 0 0"
+    background-url="./_assets/image-beach@2x.jpg"
+    background-size="cover">
+    </mj-section>
+    <!-- Introduction Text -->
+    <mj-section 
+    padding="50px 8%"
+    background-color="#2D4A45">
+      <mj-column>
+        <mj-text
+        font-family="Raleway"
+        font-weight="700"
+        font-size="42px"
+        text-transform="uppercase"
+        align="center"
+        color="#E4A845">
+          Land the last opportunity
+        </mj-text>
+        <mj-text
+        font-size="16px"
+        align="center"
+        color="white"
+        line-height="24px">
+          Tony McGrath Real Estate on behalf of Seymour Group is proud to announce The Beach Estate. With just 15 freehold land lots available, this exclusive address provides direct beachside access to the world-famous and breathtaking 4 Mile Beach, just 80 meters from your new home via a walkway through the rainforest.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Image -->
+    <mj-section
+    padding="100% 0 0 0"
+    background-url="./_assets/image-lots@2x.jpg"
+    background-size="cover">
+    </mj-section>
+    <!-- Text -->
+    <mj-section 
+    padding="50px 8%"
+    background-color="#F6F3EF">
+      <mj-column>
+        <mj-text
+        font-family="Raleway"
+        font-weight="bold"
+        font-size="42px"
+        text-transform="uppercase"
+        align="center"
+        line-height="22px"
+        color="#2D4A45">
+          15 FREEHOLD LOTS
+        </mj-text>
+        <mj-text
+        font-size="20px"
+        text-transform="uppercase"
+        align="center"
+        color="#2D4A45">
+          AT THREE PRICEPOINTS
+        </mj-text>
+        <mj-text
+        font-size="16px"
+        align="center"
+        color="black"
+        line-height="24px">
+          Set amongst a beautifully landscaped estate free from body corporates, your private property is situated on the aptly-named Beach Close – but it's not just the beach that's close, you're also nestled between two world-class golf courses, and only minutes from the food capital of Far North Queensland in Port Douglas township, with all the convenience and amenities you could ever want or need.
+        </mj-text>
+        <mj-text
+        font-size="16px"
+        align="center"
+        color="black"
+        line-height="24px">
+          With the splendour of the Daintree Rainforest all around you, and the Great Barrier Reef and endless beaches before you, this peaceful, secluded lifestyle opportunity will be a dream come true for only a select few, so enquire today.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Image -->
+    <mj-section
+    padding="60% 0 0 0"
+    background-url="./_assets/image-location@2x.jpg"
+    background-size="cover">
+    </mj-section>
+
+    <!-- Feature -->
+    <mj-section 
+    padding="40px 0"
+    background-color="#F6F3EF">
+      <mj-column width="100%">
+        <mj-text
+        font-family="Raleway"
+        font-weight="bold"
+        font-size="42px"
+        text-transform="uppercase"
+        align="center"
+        color="#2D4A45">
+          Close to everything you need
+        </mj-text>
+        <mj-spacer height="40px" />
+      </mj-column>
+
+      <mj-column width="40%">
+        <mj-image 
+        height="60px"
+        width="78px"
+        src="./_assets/icons/64px-Golf@2x.png" />
+        <mj-text
+        font-size="24px"
+        font-weight="bold"
+        align="center"
+        line-height="20px"
+        color="black">
+          3 mins 
+        </mj-text>
+        <mj-text
+        font-size="16px"
+        align="center"
+        color="black"
+        line-height="22px">
+          drive from two world-class golf courses
+        </mj-text>
+        <mj-spacer height="40px" />
+      </mj-column>
+
+      <mj-column width="40%">
+        <mj-image 
+        height="60px"
+        width="60px"
+        src="./_assets/icons/64px-Sunset@2x.png" />
+        <mj-text
+        font-size="24px"
+        font-weight="bold"
+        align="center"
+        line-height="20px"
+        color="black">
+          80 metres
+        </mj-text>
+        <mj-text
+        font-size="16px"
+        align="center"
+        color="black"
+        line-height="22px">
+          to Four Mile Beach via walkway
+        </mj-text>
+        <mj-spacer height="40px" />
+      </mj-column>
+
+      <mj-column width="40%">
+        <mj-image 
+        height="60px"
+        width="60px"
+        src="./_assets/icons/64px-Plate@2x.png" />
+        <mj-text
+        font-size="24px"
+        font-weight="bold"
+        align="center"
+        line-height="20px"
+        color="black">
+          Award winning
+        </mj-text>
+        <mj-text
+        font-size="16px"
+        align="center"
+        color="black"
+        line-height="22px">
+          Close to award-winning restaurants
+        </mj-text>
+        <mj-spacer height="40px" />
+      </mj-column>
+
+      <mj-column width="40%">
+        <mj-image 
+        height="60px"
+        width="60px"
+        src="./_assets/icons/64px-Townhall@2x.png" />
+        <mj-text
+        font-size="24px"
+        font-weight="bold"
+        align="center"
+        line-height="20px"
+        color="black">
+          5 min
+        </mj-text>
+        <mj-text
+        font-size="16px"
+        align="center"
+        color="black"
+        line-height="22px">
+          drive to Port Douglas Township
+        </mj-text>
+        <mj-spacer height="40px" />
+      </mj-column>
+
+      <mj-column width="40%">
+        <mj-image 
+        height="60px"
+        width="85px"
+        src="./_assets/icons/64px-Boat@2x.png" />
+        <mj-text
+        font-size="24px"
+        font-weight="bold"
+        align="center"
+        line-height="20px"
+        color="black">
+          5 min
+        </mj-text>
+        <mj-text
+        font-size="16px"
+        align="center"
+        color="black"
+        line-height="22px">
+          drive from Yacht Club and Marina
+        </mj-text>
+        <mj-spacer height="40px" />
+      </mj-column>
+
+      <mj-column width="40%">
+        <mj-image 
+        height="60px"
+        width="60px"
+        src="./_assets/icons/64px-Shopping@2x.png" />
+        <mj-text
+        font-size="24px"
+        font-weight="bold"
+        align="center"
+        line-height="20px"
+        color="black">
+          5 min
+        </mj-text>
+        <mj-text
+        font-size="16px"
+        align="center"
+        color="black"
+        line-height="22px">
+          drive to shopping centre and amenities
+        </mj-text>
+        <mj-spacer height="40px" />
+      </mj-column>
+
+      <mj-column width="100%">
+        <mj-button 
+        background-color="#DC9E38"
+        border-radius="0px"
+        font-family="Raleway"
+        font-weight="700"
+        text-transform="uppercase"
+        href="#"
+        color="white">
+          Visit website
+        </mj-button>
+      </mj-column>
+      
+    </mj-section>
+
+    <!-- Contact -->
+    <mj-section 
+    padding="40px 0"
+    background-color="#2D4A45">
+      <mj-column>
+        <mj-text
+        font-family="Raleway"
+        font-weight="bold"
+        font-size="42px"
+        text-transform="uppercase"
+        align="center"
+        color="#DFA836">
+          To find out more, enquire today
+        </mj-text>
+        <mj-spacer height="20px" />
+        <mj-text
+        font-size="18px"
+        text-transform="uppercase"
+        letter-spacing="8.5px"
+        align="center"
+        line-height="16px"
+        color="white">
+          Exclusive agent
+        </mj-text>
+        <mj-image width="347px" src="./_assets/Branding/McGrath-Logo@2x.png" />
+        <mj-spacer height="20px" />
+        <mj-text
+        font-size="16px"
+        align="center"
+        color="white"
+        line-height="28px">
+          <strong>Tony McGrath</strong><br />
+          Phone: <a style="color: white;" href="tel:+61438772277">+61 438 77 22 77</a><br />
+          Email: <a style="color: #DFA836;" href="mailto: thebeachestate@tonymcgrath.com.au">thebeachestate@tonymcgrath.com.au</a> <br />
+          Web: <a style="color: #DFA836;" href="www.thebeachestate.com.au" target="_blank">www.thebeachestate.com.au</a><br />
         </mj-text>
       </mj-column>
     </mj-section>
 
-    <!-- Image Header -->
-    <mj-section background-color="#f0f0f0"></mj-section>
-
-    <!-- Introduction Text -->
-    <mj-section background-color="#fafafa"></mj-section>
-
-    <!-- 2 columns section -->
-    <mj-section background-color="white"></mj-section>
-
-    <!-- Icons -->
-    <mj-section background-color="#fbfbfb"></mj-section>
-
-    <!-- Social icons -->
-    <mj-section background-color="#f0f0f0"></mj-section>
-
   </mj-body>
-</mjml>
+</mjml> 
