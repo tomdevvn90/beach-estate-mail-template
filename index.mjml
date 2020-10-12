@@ -14,7 +14,7 @@
         <mj-image 
         width="78px" 
         padding="0 0 20px 0"
-        src="./assets/leaf.svg" />
+        src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/leaf.svg" />
         <mj-text
         font-family="Raleway"
         font-weight="700"
@@ -37,7 +37,7 @@
     </mj-section>
     <!-- Offer -->
     <mj-section 
-    background-url="./assets/bg-ss-2.png"
+    background-url="https://tomdevvn90.github.io/beach-estate-mail-template/assets/bg-ss-2.png"
     background-color="#f0f0f0">
       <mj-column
       padding="0">
@@ -64,7 +64,7 @@
     <!-- Image -->
     <mj-section
     padding="70% 0 0 0"
-    background-url="./assets/image-beach@2x.jpg"
+    background-url="https://tomdevvn90.github.io/beach-estate-mail-template/assets/image-beach@2x.jpg"
     background-size="cover">
     </mj-section>
     <!-- Introduction Text -->
@@ -94,7 +94,7 @@
     <!-- Image -->
     <mj-section
     padding="100% 0 0 0"
-    background-url="./assets/image-lots@2x.jpg"
+    background-url="https://tomdevvn90.github.io/beach-estate-mail-template/assets/image-lots@2x.jpg"
     background-size="cover">
     </mj-section>
     <!-- Text -->
@@ -140,7 +140,7 @@
     <!-- Image -->
     <mj-section
     padding="60% 0 0 0"
-    background-url="./assets/image-location@2x.jpg"
+    background-url="https://tomdevvn90.github.io/beach-estate-mail-template/assets/image-location@2x.jpg"
     background-size="cover">
     </mj-section>
 
@@ -165,7 +165,7 @@
         <mj-image 
         height="60px"
         width="78px"
-        src="./assets/Icons/64px-Golf@2x.png" />
+        src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Icons/64px-Golf@2x.png" />
         <mj-text
         font-family="Josefin Sans"
         font-size="24px"
@@ -190,7 +190,7 @@
         <mj-image 
         height="60px"
         width="60px"
-        src="./assets/Icons/64px-Sunset@2x.png" />
+        src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Icons/64px-Sunset@2x.png" />
         <mj-text
         font-family="Josefin Sans"
         font-size="24px"
@@ -215,7 +215,7 @@
         <mj-image 
         height="60px"
         width="60px"
-        src="./assets/Icons/64px-Plate@2x.png" />
+        src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Icons/64px-Plate@2x.png" />
         <mj-text
         font-family="Josefin Sans"
         font-size="24px"
@@ -240,7 +240,7 @@
         <mj-image 
         height="60px"
         width="60px"
-        src="./assets/Icons/64px-Townhall@2x.png" />
+        src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Icons/64px-Townhall@2x.png" />
         <mj-text
         font-family="Josefin Sans"
         font-size="24px"
@@ -265,7 +265,7 @@
         <mj-image  
         height="60px"
         width="85px"
-        src="./assets/Icons/64px-Boat@2x.png" />
+        src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Icons/64px-Boat@2x.png" />
         <mj-text
         font-family="Josefin Sans"
         font-size="24px"
@@ -290,7 +290,7 @@
         <mj-image 
         height="60px"
         width="60px"
-        src="./assets/Icons/64px-Shopping@2x.png" />
+        src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Icons/64px-Shopping@2x.png" />
         <mj-text
         font-family="Josefin Sans"
         font-size="24px"
@@ -352,7 +352,7 @@
         color="white">
           Exclusive agent
         </mj-text>
-        <mj-image width="347px" src="./assets/Branding/McGrath-Logo@2x.png" />
+        <mj-image width="347px" src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Branding/McGrath-Logo@2x.png" />
         <mj-spacer height="20px" />
         <mj-text
         font-family="Josefin Sans"
@@ -373,7 +373,7 @@
     padding="30px 0"
     background-color="black">
       <mj-column>
-        <mj-image width="134px" src="./assets/Branding/Seymour-LOGO-reverse@2x.png" />
+        <mj-image width="134px" src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Branding/Seymour-LOGO-reverse@2x.png" />
         <mj-text
         font-family="Josefin Sans"
         align="center"
