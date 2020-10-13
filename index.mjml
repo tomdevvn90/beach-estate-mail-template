@@ -134,7 +134,7 @@
         text-transform="uppercase"
         align="center"
         color="#2D4A45">
-          AT THREE PRICEPOINTS
+          NO BODY CORPORATES
         </mj-text>
         <mj-text
         font-family="Josefin Sans"
@@ -337,7 +337,7 @@
         font-family="Raleway"
         font-weight="700"
         text-transform="uppercase"
-        href="#"
+        href="https://www.thebeachestate.com/"
         color="white">
           Visit website
         </mj-button>
@@ -399,6 +399,8 @@
         align="center"
         color="white">
           Developed by Seymour Group. © 2020 Seymour Group. All Rights Reserved.
+          <hr />
+          <a href="#unsubscribe">Unsubscribe</a>
         </mj-text>
       </mj-column>
     </mj-section>
