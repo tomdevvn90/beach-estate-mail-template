@@ -2,6 +2,16 @@
   <mj-head>
     <mj-font name="Raleway" href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap" />
     <mj-font name="Josefin Sans" href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;700&display=swap" />
+    <mj-style>
+      @media (max-width:680px) { 
+        .title div {
+          font-size:26px !important
+        }
+        .sub-title div {
+          font-size:16px !important
+        }
+      }
+    </mj-style>
   </mj-head>
   <mj-body>
     <!-- Brand --> 
@@ -16,6 +26,7 @@
         padding="0 0 20px 0"
         src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/leaf.svg" />
         <mj-text
+        css-class="title"
         font-family="Raleway"
         font-weight="700"
         font-size="42px"
@@ -25,6 +36,7 @@
           The Beach Estate
         </mj-text>
         <mj-text
+        css-class="sub-title"
         font-family="Josefin Sans"
         font-size="20px"
         text-transform="uppercase"
@@ -42,6 +54,7 @@
       <mj-column
       padding="0">
         <mj-text
+        css-class="sub-title"
         font-family="Josefin Sans"
         font-size="20px"
         text-transform="uppercase"
@@ -51,6 +64,7 @@
           Premium Client
         </mj-text>
         <mj-text
+        css-class="title"
         font-family="Raleway"
         font-weight="bold"
         font-size="32px"
@@ -73,6 +87,7 @@
     background-color="#2D4A45">
       <mj-column>
         <mj-text
+        css-class="title"
         font-family="Raleway"
         font-weight="700"
         font-size="42px"
@@ -103,6 +118,7 @@
     background-color="#F6F3EF">
       <mj-column>
         <mj-text
+        css-class="title"
         font-family="Raleway"
         font-weight="bold"
         font-size="42px"
@@ -112,6 +128,7 @@
           15 FREEHOLD LOTS
         </mj-text>
         <mj-text
+        css-class="sub-title"
         font-family="Josefin Sans"
         font-size="20px"
         text-transform="uppercase"
@@ -150,6 +167,7 @@
     background-color="#F6F3EF"> 
       <mj-column width="100%">
         <mj-text
+        css-class="title"
         font-family="Raleway"
         font-weight="bold"
         font-size="42px"
@@ -333,6 +351,7 @@
     background-color="#2D4A45">
       <mj-column>
         <mj-text
+        css-class="title"
         font-family="Raleway"
         font-weight="bold"
         font-size="42px"
@@ -343,6 +362,7 @@
         </mj-text>
         <mj-spacer height="20px" />
         <mj-text
+        css-class="sub-title"
         font-family="Josefin Sans"
         font-size="18px"
         text-transform="uppercase"
