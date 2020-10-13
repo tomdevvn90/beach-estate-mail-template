@@ -33,7 +33,7 @@
         text-transform="uppercase"
         align="center"
         color="white">
-          The Beach Estate
+          <singleline label="The Beach Estate">The Beach Estate</singleline>
         </mj-text>
         <mj-text
         css-class="sub-title"
@@ -43,7 +43,7 @@
         letter-spacing="10px"
         align="center"
         color="#E4A845">
-          Port Douglas
+          <singleline label="Port Douglas">Port Douglas</singleline>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -61,7 +61,7 @@
         letter-spacing="10px"
         align="center"
         color="white">
-          Premium Client
+          <singleline label="Premium Client">Premium Client</singleline>
         </mj-text>
         <mj-text
         css-class="title"
@@ -71,7 +71,7 @@
         text-transform="uppercase"
         align="center"
         color="#E4A845">
-          PRE-RELEASE OFFER
+          <singleline label="PRE-RELEASE OFFER">PRE-RELEASE OFFER</singleline>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -94,7 +94,7 @@
         text-transform="uppercase"
         align="center"
         color="#E4A845">
-          Land the last opportunity
+          <singleline label="Land the last opportunity">Land the last opportunity</singleline>
         </mj-text>
         <mj-text
         font-family="Josefin Sans"
@@ -102,7 +102,7 @@
         align="center"
         color="white"
         line-height="24px">
-          Tony McGrath Real Estate on behalf of Seymour Group is proud to announce The Beach Estate. With just 15 freehold land lots available, this exclusive address provides direct beachside access to the world-famous and breathtaking 4 Mile Beach, just 80 meters from your new home via a walkway through the rainforest.
+          <multiline label="Tony McGrath Real Estate on behalf of Seymour Group is proud to announce The Beach Estate. With just 15 freehold land lots available, this exclusive address provides direct beachside access to the world-famous and breathtaking 4 Mile Beach, just 80 meters from your new home via a walkway through the rainforest.">Tony McGrath Real Estate on behalf of Seymour Group is proud to announce The Beach Estate. With just 15 freehold land lots available, this exclusive address provides direct beachside access to the world-famous and breathtaking 4 Mile Beach, just 80 meters from your new home via a walkway through the rainforest.</multiline>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -125,7 +125,7 @@
         text-transform="uppercase"
         align="center"
         color="#2D4A45">
-          15 FREEHOLD LOTS
+          <singleline label="15 FREEHOLD LOTS">15 FREEHOLD LOTS</singleline>
         </mj-text>
         <mj-text
         css-class="sub-title"
@@ -134,7 +134,7 @@
         text-transform="uppercase"
         align="center"
         color="#2D4A45">
-          NO BODY CORPORATES
+          <singleline label="NO BODY CORPORATES">NO BODY CORPORATES</singleline>
         </mj-text>
         <mj-text
         font-family="Josefin Sans"
@@ -142,7 +142,7 @@
         align="center"
         color="black"
         line-height="24px">
-          Set amongst a beautifully landscaped estate <b>free from body corporates</b>, your private property is situated on the aptly-named Beach Close – but it's not just the beach that's close, you're also nestled between two world-class golf courses, and only minutes from the food capital of Far North Queensland in Port Douglas township, with all the convenience and amenities you could ever want or need.
+          <multiline>Set amongst a beautifully landscaped estate <b>free from body corporates</b>, your private property is situated on the aptly-named Beach Close – but it's not just the beach that's close, you're also nestled between two world-class golf courses, and only minutes from the food capital of Far North Queensland in Port Douglas township, with all the convenience and amenities you could ever want or need.</multiline>
         </mj-text>
         <mj-text
         font-family="Josefin Sans"
@@ -150,7 +150,7 @@
         align="center"
         color="black"
         line-height="24px">
-          With the splendour of the Daintree Rainforest all around you, and the Great Barrier Reef and endless beaches before you, this peaceful, secluded lifestyle opportunity will be a dream come true for only a select few, so enquire today.
+          <multiline>With the splendour of the Daintree Rainforest all around you, and the Great Barrier Reef and endless beaches before you, this peaceful, secluded lifestyle opportunity will be a dream come true for only a select few, so enquire today.</multiline>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -174,7 +174,7 @@
         text-transform="uppercase"
         align="center"
         color="#2D4A45">
-          Close to everything you need
+          <singleline label="Close to everything you need">Close to everything you need</singleline>
         </mj-text>
         <mj-spacer height="40px" />
       </mj-column>
@@ -191,7 +191,7 @@
         align="center"
         line-height="20px"
         color="black">
-          3 mins 
+          <singleline label="3 mins">3 mins</singleline> 
         </mj-text>
         <mj-text
         font-family="Josefin Sans"
@@ -199,7 +199,7 @@
         align="center"
         color="black"
         line-height="22px">
-          drive from two world-class golf courses
+          <multiline>drive from two world-class golf courses</multiline>
         </mj-text>
         <mj-spacer height="40px" />
       </mj-column>
@@ -216,7 +216,7 @@
         align="center"
         line-height="20px"
         color="black">
-          80 metres
+          <singleline label="80 metres">80 metres</singleline>
         </mj-text>
         <mj-text
         font-family="Josefin Sans"
@@ -224,7 +224,7 @@
         align="center"
         color="black"
         line-height="22px">
-          to Four Mile Beach via walkway
+          <multiline>to Four Mile Beach via walkway</multiline>
         </mj-text>
         <mj-spacer height="40px" />
       </mj-column>
@@ -241,7 +241,7 @@
         align="center"
         line-height="20px"
         color="black">
-          Award winning
+          <singleline label="Award winning">Award winning</singleline>
         </mj-text>
         <mj-text
         font-family="Josefin Sans"
@@ -249,7 +249,7 @@
         align="center"
         color="black"
         line-height="22px">
-          Close to award-winning restaurants
+          <multiline>Close to award-winning restaurants</multiline>
         </mj-text>
         <mj-spacer height="40px" />
       </mj-column>
@@ -266,7 +266,7 @@
         align="center"
         line-height="20px"
         color="black">
-          5 min
+          <singleline label="5 min">5 min</singleline>
         </mj-text>
         <mj-text
         font-family="Josefin Sans"
@@ -274,7 +274,7 @@
         align="center"
         color="black"
         line-height="22px">
-          drive to Port Douglas Township
+          <multiline>drive to Port Douglas Township</multiline>
         </mj-text>
         <mj-spacer height="40px" />
       </mj-column>
@@ -291,7 +291,7 @@
         align="center"
         line-height="20px"
         color="black">
-          5 min
+          <singleline label="5 min">5 min</singleline>
         </mj-text>
         <mj-text
         font-family="Josefin Sans"
@@ -299,7 +299,7 @@
         align="center"
         color="black"
         line-height="22px">
-          drive from Yacht Club and Marina
+          <multiline>drive from Yacht Club and Marina</multiline>
         </mj-text>
         <mj-spacer height="40px" />
       </mj-column>
@@ -316,7 +316,7 @@
         align="center"
         line-height="20px"
         color="black">
-          5 min
+          <singleline label="5 min">5 min</singleline>
         </mj-text>
         <mj-text
         font-family="Josefin Sans"
@@ -324,7 +324,7 @@
         align="center"
         color="black"
         line-height="22px">
-          drive to shopping centre and amenities
+          <multiline>drive to shopping centre and amenities</multiline>
         </mj-text>
         <mj-spacer height="40px" />
       </mj-column>
@@ -358,7 +358,7 @@
         text-transform="uppercase"
         align="center"
         color="#DFA836">
-          To find out more, enquire today
+          <multiline label="To find out more, enquire today">To find out more, enquire today</multiline>
         </mj-text>
         <mj-spacer height="20px" />
         <mj-text
@@ -370,7 +370,7 @@
         align="center"
         line-height="16px"
         color="white">
-          Exclusive agent
+          <singleline label="Exclusive agent">Exclusive agent</singleline>
         </mj-text>
         <mj-image width="347px" src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Branding/McGrath-Logo@2x.png" />
         <mj-spacer height="20px" />
@@ -380,10 +380,10 @@
         align="center"
         color="white"
         line-height="24px">
-          <strong>Tony McGrath</strong><br />
-          Phone: <a style="color: white;" href="tel:+61438772277">+61 438 77 22 77</a><br />
-          Email: <a style="color: #DFA836;" href="mailto:thebeachestate@tonymcgrath.com.au">thebeachestate@tonymcgrath.com.au</a> <br />
-          Web: <a style="color: #DFA836;" href="https://www.thebeachestate.com.au" target="_blank">www.thebeachestate.com.au</a><br />
+          <strong><singleline label="Tony McGrath">Tony McGrath</singleline></strong><br />
+          <singleline>Phone:</singleline> <a style="color: white;" href="tel:+61438772277"><singleline>+61 438 77 22 77</singleline></a><br />
+          <singleline>Email:</singleline> <a style="color: #DFA836;" href="mailto:thebeachestate@tonymcgrath.com.au"><singleline>thebeachestate@tonymcgrath.com.au</singleline></a> <br />
+          <singleline>Web:</singleline> <a style="color: #DFA836;" href="https://www.thebeachestate.com.au" target="_blank"><singleline>www.thebeachestate.com.au</singleline></a><br />
         </mj-text>
       </mj-column>
     </mj-section>
@@ -398,9 +398,9 @@
         font-family="Josefin Sans"
         align="center"
         color="white">
-          Developed by Seymour Group. © 2020 Seymour Group. All Rights Reserved.
+          <multiline>Developed by Seymour Group. © 2020 Seymour Group. All Rights Reserved.</multiline>
           <hr />
-          <a href="#unsubscribe">Unsubscribe</a>
+          <a style="color: #DFA836;" href="#unsubscribe"><singleline>Unsubscribe</singleline></a>
         </mj-text>
       </mj-column>
     </mj-section>
