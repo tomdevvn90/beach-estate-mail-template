@@ -171,10 +171,10 @@
     </mj-section>
 
     <!-- Feature -->
-    <mj-section 
-    padding="40px 0"
-    background-color="#F6F3EF"> 
-      <mj-column width="100%">
+    <mj-section
+    padding="40px 0 0"
+    background-color="#F6F3EF">
+      <mj-column>
         <mj-text
         css-class="title"
         font-family="Lato, Helvetica, Arial, sans-serif"
@@ -185,10 +185,13 @@
         color="#2D4A45">
           <singleline label="Close to everything you need">Close to everything you need</singleline>
         </mj-text>
-        <mj-spacer height="40px" />
       </mj-column>
+    </mj-section>
 
-      <mj-column width="40%">
+    <mj-section
+    background-color="#F6F3EF">
+      <mj-column
+      width="40%">
         <mj-image 
         height="60px"
         width="78px"
@@ -210,10 +213,9 @@
         line-height="22px">
           <multiline>drive from two world-class golf courses</multiline>
         </mj-text>
-        <mj-spacer height="40px" />
       </mj-column>
-
-      <mj-column width="40%">
+      <mj-column
+      width="40%">
         <mj-image 
         height="60px"
         width="60px"
@@ -235,10 +237,12 @@
         line-height="22px">
           <multiline>to Four Mile Beach via walkway</multiline>
         </mj-text>
-        <mj-spacer height="40px" />
       </mj-column>
-
-      <mj-column width="40%">
+    </mj-section>
+    <mj-section
+    background-color="#F6F3EF">
+      <mj-column
+      width="40%">
         <mj-image 
         height="60px"
         width="60px"
@@ -260,10 +264,9 @@
         line-height="22px">
           <multiline>Close to award-winning restaurants</multiline>
         </mj-text>
-        <mj-spacer height="40px" />
       </mj-column>
-
-      <mj-column width="40%">
+      <mj-column
+      width="40%">
         <mj-image 
         height="60px"
         width="60px"
@@ -285,10 +288,12 @@
         line-height="22px">
           <multiline>drive to Port Douglas Township</multiline>
         </mj-text>
-        <mj-spacer height="40px" />
       </mj-column>
-
-      <mj-column width="40%">
+    </mj-section>
+    <mj-section
+    background-color="#F6F3EF">
+      <mj-column
+      width="40%">
         <mj-image  
         height="60px"
         width="85px"
@@ -310,10 +315,9 @@
         line-height="22px">
           <multiline>drive from Yacht Club and Marina</multiline>
         </mj-text>
-        <mj-spacer height="40px" />
       </mj-column>
-
-      <mj-column width="40%">
+      <mj-column
+      width="40%">
         <mj-image 
         height="60px"
         width="60px"
@@ -335,10 +339,11 @@
         line-height="22px">
           <multiline>drive to shopping centre and amenities</multiline>
         </mj-text>
-        <mj-spacer height="40px" />
       </mj-column>
-
-      <mj-column width="100%">
+    </mj-section>
+    <mj-section 
+    background-color="#F6F3EF"> 
+      <mj-column>
         <mj-button 
         font-family="Lato, Helvetica, Arial, sans-serif"
         background-color="#DC9E38"
@@ -350,8 +355,8 @@
         color="white">
           Visit website
         </mj-button>
+        <mj-spacer height="40px" />
       </mj-column>
-      
     </mj-section>
 
     <!-- Contact -->
