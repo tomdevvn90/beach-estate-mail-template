@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-font name="Lato" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" />
+    <mj-font name="Lato, Helvetica, Arial, sans-serif" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" />
     <mj-style>
       @media (max-width:680px) { 
         .title div {
@@ -26,7 +26,7 @@
         src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Branding/Palm-BRAND.png" />
         <mj-text
         css-class="title"
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-weight="700"
         font-size="42px"
         text-transform="uppercase"
@@ -36,7 +36,7 @@
         </mj-text>
         <mj-text
         css-class="sub-title"
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-size="20px"
         text-transform="uppercase"
         letter-spacing="10px"
@@ -54,7 +54,7 @@
       padding="0">
         <mj-text
         css-class="sub-title"
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-size="20px"
         text-transform="uppercase"
         letter-spacing="10px"
@@ -64,7 +64,7 @@
         </mj-text>
         <mj-text
         css-class="title"
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-weight="bold"
         font-size="32px"
         text-transform="uppercase"
@@ -87,7 +87,7 @@
       <mj-column>
         <mj-text
         css-class="title"
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-weight="700"
         font-size="42px"
         text-transform="uppercase"
@@ -96,7 +96,7 @@
           <singleline label="Land the last opportunity">Land the last opportunity</singleline>
         </mj-text>
         <mj-text
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-size="16px"
         align="center"
         color="white"
@@ -118,7 +118,7 @@
       <mj-column>
         <mj-text
         css-class="title"
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-weight="bold"
         font-size="42px"
         text-transform="uppercase"
@@ -128,7 +128,7 @@
         </mj-text>
         <mj-text
         css-class="sub-title"
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-size="20px"
         text-transform="uppercase"
         align="center"
@@ -136,7 +136,7 @@
           <singleline label="NO BODY CORPORATES">NO BODY CORPORATES</singleline>
         </mj-text>
         <mj-text
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-size="16px"
         align="center"
         color="black"
@@ -144,7 +144,7 @@
           <multiline>Set amongst a beautifully landscaped estate <b>free from body corporates</b>, your private property is situated on the aptly-named Beach Close – but it's not just the beach that's close, you're also nestled between two world-class golf courses, and only minutes from the food capital of Far North Queensland in Port Douglas township, with all the convenience and amenities you could ever want or need.</multiline>
         </mj-text>
         <mj-text
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-size="16px"
         align="center"
         color="black"
@@ -167,7 +167,7 @@
       <mj-column width="100%">
         <mj-text
         css-class="title"
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-weight="bold"
         font-size="42px"
         text-transform="uppercase"
@@ -184,7 +184,7 @@
         width="78px"
         src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Icons/64px-Golf@2x.png" />
         <mj-text
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-size="24px"
         font-weight="bold"
         align="center"
@@ -193,7 +193,7 @@
           <singleline label="3 mins">3 mins</singleline> 
         </mj-text>
         <mj-text
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-size="16px"
         align="center"
         color="black"
@@ -209,7 +209,7 @@
         width="60px"
         src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Icons/64px-Sunset@2x.png" />
         <mj-text
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-size="24px"
         font-weight="bold"
         align="center"
@@ -218,7 +218,7 @@
           <singleline label="80 metres">80 metres</singleline>
         </mj-text>
         <mj-text
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-size="16px"
         align="center"
         color="black"
@@ -234,7 +234,7 @@
         width="60px"
         src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Icons/64px-Plate@2x.png" />
         <mj-text
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-size="24px"
         font-weight="bold"
         align="center"
@@ -243,7 +243,7 @@
           <singleline label="Award winning">Award winning</singleline>
         </mj-text>
         <mj-text
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-size="16px"
         align="center"
         color="black"
@@ -259,7 +259,7 @@
         width="60px"
         src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Icons/64px-Townhall@2x.png" />
         <mj-text
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-size="24px"
         font-weight="bold"
         align="center"
@@ -268,7 +268,7 @@
           <singleline label="5 min">5 min</singleline>
         </mj-text>
         <mj-text
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-size="16px"
         align="center"
         color="black"
@@ -284,7 +284,7 @@
         width="85px"
         src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Icons/64px-Boat@2x.png" />
         <mj-text
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-size="24px"
         font-weight="bold"
         align="center"
@@ -293,7 +293,7 @@
           <singleline label="5 min">5 min</singleline>
         </mj-text>
         <mj-text
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-size="16px"
         align="center"
         color="black"
@@ -309,7 +309,7 @@
         width="60px"
         src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Icons/64px-Shopping@2x.png" />
         <mj-text
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-size="24px"
         font-weight="bold"
         align="center"
@@ -318,7 +318,7 @@
           <singleline label="5 min">5 min</singleline>
         </mj-text>
         <mj-text
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-size="16px"
         align="center"
         color="black"
@@ -330,10 +330,10 @@
 
       <mj-column width="100%">
         <mj-button 
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         background-color="#DC9E38"
         border-radius="0px"
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-weight="700"
         text-transform="uppercase"
         href="https://www.thebeachestate.com/"
@@ -351,7 +351,7 @@
       <mj-column>
         <mj-text
         css-class="title"
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-weight="bold"
         font-size="42px"
         text-transform="uppercase"
@@ -362,7 +362,7 @@
         <mj-spacer height="20px" />
         <mj-text
         css-class="sub-title"
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-size="18px"
         text-transform="uppercase"
         letter-spacing="8.5px"
@@ -374,7 +374,7 @@
         <mj-image width="347px" src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Branding/McGrath-Logo@2x.png" />
         <mj-spacer height="20px" />
         <mj-text
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         font-size="16px"
         align="center"
         color="white"
@@ -394,7 +394,7 @@
       <mj-column>
         <mj-image width="134px" src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Branding/Seymour-LOGO-reverse@2x.png" />
         <mj-text
-        font-family="Lato"
+        font-family="Lato, Helvetica, Arial, sans-serif"
         align="center"
         color="white">
           <multiline>Developed by Seymour Group. © 2020 Seymour Group. All Rights Reserved.</multiline>
