@@ -414,8 +414,47 @@
         align="center"
         color="white">
           <multiline>Developed by Seymour Group. © 2020 Seymour Group. All Rights Reserved.</multiline>
-          <hr />
-          <a style="color: #DFA836;" href="#unsubscribe"><singleline>Unsubscribe</singleline></a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+    background-color="#C7D3D1">
+      <mj-column>
+        <mj-text
+        color="black"
+        font-family="Lato, Helvetica, Arial, sans-serif"
+        line-height="22px"
+        align="center">
+          <multiline>
+            Port Douglas, Queensland, Australia<br />
+            thebeachestate.com | thebeachestate@tonymcgrath.com.au | +61 438 877 22 77<br />
+          </multiline>
+        </mj-text>
+        <mj-text
+        color="black"
+        font-family="Lato, Helvetica, Arial, sans-serif"
+        line-height="22px"
+        padding="0 20%"
+        align="center">
+          <multiline>You are receiving this email as an existing subscriber, and you have chosen to receive email communications from us.</multiline>
+        </mj-text>
+        <mj-text
+        color="black"
+        font-family="Lato, Helvetica, Arial, sans-serif"
+        line-height="22px"
+        align="center">
+          <a style="color: #AD6C00; margin-right: 20px" href="#unsubscribe" >Unsubscribe</a>
+          <a style="color: #AD6C00;" href="#privacy" >Privacy</a>
+        </mj-text>
+        <mj-text
+        color="#6E6E6E"
+        font-family="Lato, Helvetica, Arial, sans-serif"
+        line-height="20px"
+        align="center">
+          <multiline>
+          Information contained within this document is indicative only and may change at any time without notice. No warranty or representation (implied or express) is given as to the accuracy, reliability or completeness of the information contained in this document. To the extent permitted by law, KS5 Pty Ltd, its related bodies corporate, their officers, employees, and agents exclude all liability for any inaccuracies in, or incompleteness of, the information included in this document or for any loss or damage (including special, indirect, or consequential loss or damage such as loss of revenue or profit) to any person which arises as a result of any use of or reliance on the information contained in this document or otherwise in connection with it. Prospective purchasers should undertake their own independent enquiries for their own benefit and satisfaction before proceeding with any investment. Any investment will be subject to the terms of any contract of sale and formal disclosure statements.
+          </multiline>
         </mj-text>
       </mj-column>
     </mj-section>
