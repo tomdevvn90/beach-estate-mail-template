@@ -428,7 +428,7 @@
         align="center">
           <multiline>
             Port Douglas, Queensland, Australia<br />
-            thebeachestate.com | thebeachestate@tonymcgrath.com.au | +61 438 877 22 77<br />
+            thebeachestate.com | <a href="thebeachestate@tonymcgrath.com.au" style="color: #AD6C00;">thebeachestate@tonymcgrath.com.au</a> | <a href="tel:+61 438 877 22 77" style="color: #AD6C00;">+61 438 877 22 77</a><br />
           </multiline>
         </mj-text>
         <mj-text
