@@ -22,7 +22,8 @@
       }
     </mj-style>
   </mj-head>
-  <mj-body>
+  <mj-body
+  background-color="#C7D3D1">
     <!-- Brand --> 
     <mj-section 
     background-size="cover"
@@ -85,11 +86,11 @@
       </mj-column>
     </mj-section>
     <!-- Image -->
-    <mj-section
-    padding="70% 0 0 0"
+    <mj-hero
+    padding="0"
     background-url="https://tomdevvn90.github.io/beach-estate-mail-template/assets/image-beach@2x.jpg"
-    background-size="cover">
-    </mj-section>
+    height="400px">
+    </mj-hero>
     <!-- Introduction Text -->
     <mj-section 
     padding="50px 8%"
@@ -116,11 +117,11 @@
       </mj-column>
     </mj-section>
     <!-- Image -->
-    <mj-section
-    padding="100% 0 0 0"
+    <mj-hero
+    padding="0"
     background-url="https://tomdevvn90.github.io/beach-estate-mail-template/assets/image-lots@2x.jpg"
-    background-size="cover">
-    </mj-section>
+    height="600px">
+    </mj-hero>
     <!-- Text -->
     <mj-section 
     padding="50px 8%"
@@ -164,15 +165,15 @@
       </mj-column>
     </mj-section>
     <!-- Image -->
-    <mj-section
-    padding="60% 0 0 0"
+    <mj-hero
+    padding="0"
     background-url="https://tomdevvn90.github.io/beach-estate-mail-template/assets/image-location@2x.jpg"
-    background-size="cover">
-    </mj-section>
+    height="400px">
+    </mj-hero>
 
     <!-- Feature -->
     <mj-section
-    padding="40px 0 0"
+    padding="25px 0 0"
     background-color="#F6F3EF">
       <mj-column>
         <mj-text
@@ -189,7 +190,8 @@
     </mj-section>
 
     <mj-section
-    background-color="#F6F3EF">
+    background-color="#F6F3EF"
+    padding="10px 0 0">
       <mj-column
       width="40%">
         <mj-image 
@@ -240,7 +242,8 @@
       </mj-column>
     </mj-section>
     <mj-section
-    background-color="#F6F3EF">
+    background-color="#F6F3EF"
+    padding="10px 0 0">
       <mj-column
       width="40%">
         <mj-image 
@@ -291,7 +294,8 @@
       </mj-column>
     </mj-section>
     <mj-section
-    background-color="#F6F3EF">
+    background-color="#F6F3EF"
+    padding="10px 0 0">
       <mj-column
       width="40%">
         <mj-image  
@@ -355,7 +359,7 @@
         color="white">
           Visit website
         </mj-button>
-        <mj-spacer height="40px" />
+        <mj-spacer height="10px" />
       </mj-column>
     </mj-section>
 
