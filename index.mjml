@@ -22,34 +22,13 @@
       }
     </mj-style>
   </mj-head>
-  <mj-body
-  background-color="#C7D3D1">
-    <!-- Premium -->
-    <mj-section 
-    background-url="https://tomdevvn90.github.io/beach-estate-mail-template/assets/bg-ss-2.png"
-    background-color="#682c90">
-      <mj-column
-      padding="0">
-        <mj-text
-        css-class="sub-title"
-        font-family="Lato, Helvetica, Arial, sans-serif"
-        font-size="20px"
-        text-transform="uppercase"
-        letter-spacing="10px"
-        align="center"
-        color="white">
-          <singleline label="Premium Client">Premium Client</singleline>
-        </mj-text>
-        <mj-text
-        css-class="title"
-        font-family="Lato, Helvetica, Arial, sans-serif"
-        font-weight="bold"
-        font-size="32px"
-        text-transform="uppercase"
-        align="center"
-        color="#E4A845">
-          <singleline label="PRE-RELEASE OFFER">PRE-RELEASE OFFER</singleline>
-        </mj-text>
+  <mj-body background-color="#C7D3D1">
+    <!-- Premium --> 
+    <mj-section css-class="hero-header" padding="0">
+      <mj-column padding="0">
+        <mj-image 
+        padding="0"
+        src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/banner-premium-client.png" />
       </mj-column>
     </mj-section>
     <!-- Brand --> 
@@ -87,10 +66,11 @@
       </mj-column>
     </mj-section>
     <!-- Image -->
+    <!--background-url="https://tomdevvn90.github.io/beach-estate-mail-template/assets/image-beach@2x.jpg"-->
     <mj-hero
-    padding="0"
-    background-url="https://tomdevvn90.github.io/beach-estate-mail-template/assets/image-beach@2x.jpg"
-    height="400px">
+    padding="0">
+      <mj-image padding="0"
+        src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/image-beach@2x.jpg" />
     </mj-hero>
     <!-- Introduction Text -->
     <mj-section 
@@ -119,9 +99,9 @@
     </mj-section>
     <!-- Image -->
     <mj-hero
-    padding="0"
-    background-url="https://tomdevvn90.github.io/beach-estate-mail-template/assets/image-lots@2x.jpg"
-    height="600px">
+    padding="0">
+      <mj-image padding="0"
+        src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/image-lots@2x.jpg" />
     </mj-hero>
     <!-- Text -->
     <mj-section 
@@ -167,9 +147,9 @@
     </mj-section>
     <!-- Image -->
     <mj-hero
-    padding="0"
-    background-url="https://tomdevvn90.github.io/beach-estate-mail-template/assets/image-location@2x.jpg"
-    height="400px">
+    padding="0">
+      <mj-image padding="0"
+        src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/image-location@2x.jpg" />
     </mj-hero>
 
     <!-- Feature -->
