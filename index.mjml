@@ -26,7 +26,7 @@
     <!-- Premium --> 
     <mj-section css-class="hero-header" padding="0">
       <mj-column padding="0">
-        <mj-image 
+        <mj-image alt="banner premium client" title="banner premium client"
         padding="0"
         src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/banner-premium-client.png" />
       </mj-column>
@@ -39,7 +39,7 @@
     padding="0">
       <mj-column
       padding="20px 0 20px">
-        <mj-image 
+        <mj-image alt="logo" title="logo"
         width="64px" 
         padding="0 0 10px 0"
         src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Branding/Palm-BRAND.png" />
@@ -69,7 +69,7 @@
     <!--background-url="https://tomdevvn90.github.io/beach-estate-mail-template/assets/image-beach@2x.jpg"-->
     <mj-hero
     padding="0">
-      <mj-image padding="0"
+      <mj-image padding="0" alt="beach image" title="beach image"
         src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/image-beach@2x.jpg" />
     </mj-hero>
     <!-- Introduction Text -->
@@ -100,7 +100,7 @@
     <!-- Image -->
     <mj-hero
     padding="0">
-      <mj-image padding="0"
+      <mj-image padding="0" alt="lots" title="lots"
         src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/image-lots@2x.jpg" />
     </mj-hero>
     <!-- Text -->
@@ -148,7 +148,7 @@
     <!-- Image -->
     <mj-hero
     padding="0">
-      <mj-image padding="0"
+      <mj-image padding="0" alt="location" title="location"
         src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/image-location@2x.jpg" />
     </mj-hero>
 
@@ -177,7 +177,7 @@
       width="40%">
         <mj-image 
         height="60px"
-        width="78px"
+        width="78px" alt="golf" title="golf"
         src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Icons/64px-Golf@2x.png" />
         <mj-text
         font-family="Lato, Helvetica, Arial, sans-serif"
@@ -199,7 +199,7 @@
       </mj-column>
       <mj-column
       width="40%">
-        <mj-image 
+        <mj-image  alt="sunset" title="sunset"
         height="60px"
         width="60px"
         src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Icons/64px-Sunset@2x.png" />
@@ -229,7 +229,7 @@
       width="40%">
         <mj-image 
         height="60px"
-        width="60px"
+        width="60px" alt="plate" title="plate"
         src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Icons/64px-Plate@2x.png" />
         <mj-text
         font-family="Lato, Helvetica, Arial, sans-serif"
@@ -253,7 +253,7 @@
       width="40%">
         <mj-image 
         height="60px"
-        width="60px"
+        width="60px" alt="Townhall" title="Townhall"
         src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Icons/64px-Townhall@2x.png" />
         <mj-text
         font-family="Lato, Helvetica, Arial, sans-serif"
@@ -281,7 +281,7 @@
       width="40%">
         <mj-image  
         height="60px"
-        width="85px"
+        width="85px" alt="Boat" title="Boat"
         src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Icons/64px-Boat@2x.png" />
         <mj-text
         font-family="Lato, Helvetica, Arial, sans-serif"
@@ -305,7 +305,7 @@
       width="40%">
         <mj-image 
         height="60px"
-        width="60px"
+        width="60px" alt="Shopping" title="Shopping"
         src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Icons/64px-Shopping@2x.png" />
         <mj-text
         font-family="Lato, Helvetica, Arial, sans-serif"
@@ -371,7 +371,7 @@
         color="white">
           <singleline label="Exclusive agent">Exclusive agent</singleline>
         </mj-text>
-        <mj-image width="347px" src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Branding/McGrath-Logo@2x.png" />
+        <mj-image alt="McGrath logo" title="McGrath logo" width="347px" src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Branding/McGrath-Logo@2x.png" />
         <mj-spacer height="20px" />
         <mj-text 
         css-class="inline-text" 
@@ -393,7 +393,7 @@
     padding="30px 0"
     background-color="black">
       <mj-column>
-        <mj-image width="134px" src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Branding/Seymour-LOGO-reverse@2x.png" />
+        <mj-image alt="Seymour logo" title="Seymour logo" width="134px" src="https://tomdevvn90.github.io/beach-estate-mail-template/assets/Branding/Seymour-LOGO-reverse@2x.png" />
         <mj-text
         font-family="Lato, Helvetica, Arial, sans-serif"
         align="center"
